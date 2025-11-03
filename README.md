@@ -2,8 +2,6 @@
 # Tryambak Chatterjee
 **Senior Data Scientist | Advanced Analytics Leader | Global Team Driver**
 
-- Email: tryambak15@gmail.com  
-- Phone: +91-7044092303  
 - [LinkedIn](https://linkedin.com/in/tryambak98)
 
 ---
@@ -104,5 +102,4 @@ Jul 2018–Jun 2020
 
 ## Contact
 
-- Email: tryambak15@gmail.com
 - LinkedIn: [linkedin.com/in/tryambak98](https://linkedin.com/in/tryambak98)
