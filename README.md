@@ -1,7 +1,3 @@
----
-layout: default
-title: "Tryambak Chatterjee | Senior Data Scientist"
----
 
 # Tryambak Chatterjee
 **Senior Data Scientist | Advanced Analytics Leader | Global Team Driver**
